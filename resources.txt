@@ -1,0 +1,7 @@
+https://github.com/tinymce/tinymce
+
+https://appwrite.io/
+
+https://react-hook-form.com/
+
+https://vite.dev/guide/env-and-mode
