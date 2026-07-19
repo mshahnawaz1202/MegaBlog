@@ -9,3 +9,23 @@ https://vite.dev/guide/env-and-mode
 
 
 
+# Redux Toolkit
+npm install @reduxjs/toolkit
+
+# React Redux
+npm install react-redux
+
+# React Router DOM
+npm install react-router-dom
+
+# Appwrite SDK
+npm install appwrite
+
+# TinyMCE Rich Text Editor
+npm install tinymce
+
+# HTML to React Parser
+npm install html-react-parser
+
+# React Hook Form
+npm install react-hook-form
