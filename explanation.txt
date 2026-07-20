@@ -1,1 +1,6 @@
 .env => environment variables and it should be in project root folder
+.env.sample => contains all variables that were in .env but all are empty so that any other user can write their own values
+
+when we change in environment variables file then we have to rerun the project
+we can access environment variables thoriugh 
+import.meta.env.VITE_APPWRITE_URL
