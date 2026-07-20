@@ -1,0 +1,1 @@
+.env => environment variables and it should be in project root folder
